@@ -1,0 +1,50 @@
+.top-container{
+  background-color: #f5dea3;
+  position: relative;
+  padding-top: 100px;
+  height: 630px;
+  margin-bottom: 10;
+}
+
+.middle-container{
+  padding-top: 30px;
+  margin-bottom: 30px;
+}
+
+.bottom-container{
+
+}
+
+hr {
+  height: 0;
+  width : 20%;
+  border-style : none;
+  border-top-style: dotted;
+  border-width: 3px;
+  border-color: grey;
+  margin: 20px auto;
+}
+
+h1 {
+  margin-top: 50px;
+  font-family: 'Sacramento',sans-serif;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Bad Script', sans-serif;
+  font-size: 20px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left : 400px;
+  bottom : 300px;
+}
+
+.top-cloud {
+  right : 420px;
+  top : 50px;
+  position: absolute;
+}
