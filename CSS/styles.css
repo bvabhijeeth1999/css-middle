@@ -3,7 +3,8 @@
   position: relative;
   padding-top: 100px;
   height: 630px;
-  margin-bottom: 10;
+  width: 100%;
+  margin : 0 auto;
 }
 
 .middle-container{
@@ -26,7 +27,7 @@ hr {
 }
 
 h1 {
-  font-size: 75px;
+  font-size: 468.75%;
   margin-top: 50px;
   font-family: 'Sacramento',sans-serif;
 }
@@ -47,7 +48,7 @@ body {
 .mountain {
   position: absolute;
   bottom : 0px;
-  left : 490px;
+  left : 33%;
 }
 
 .top-cloud {
